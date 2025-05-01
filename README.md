@@ -2,7 +2,7 @@
 
 ## An Interactive Artist, Full Stack Developer & Post-It Aficionado
 
-* 📚 Currently learning: OpenAI
+* 📚 Currently learning: Arcgis
 * 🙌 ~~2024 Goals: Finish a Shopify app~~ pau!
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
